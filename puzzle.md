@@ -4,11 +4,11 @@
 <div id="puzzlescript-game"></div>
 
 <style type="text/css">
-	@import url("puzzlescript-embed-master/css/puzzlescript-embed.css");
+	@import url("https://github.com/mgelbart/mgelbart.github.io/tree/master/puzzlescript-embed-master/css/puzzlescript-embed.css");
 </style>
 
 
-<script src="puzzlescript-embed-master/js/puzzlescript-embed.js" type="text/javascript"></script>
+<script src="https://github.com/mgelbart/mgelbart.github.io/tree/master/puzzlescript-embed-master/js/puzzlescript-embed.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
